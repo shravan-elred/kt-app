@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /home/ec2-user/final-kt-app
+cd /home/ec2-user/kt-app
 
-pm2 stop final-kt-app
+pm2 stop kt-app
 npm install

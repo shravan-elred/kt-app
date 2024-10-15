@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /home/ec2-user/final-kt-app
+    destination: /home/ec2-user/kt-app
 
 hooks:
   BeforeInstall:
