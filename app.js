@@ -13,7 +13,7 @@ app.get('/raahel', (req, res) => {
     res.send('This is the best endpoint in the world');
 });
 
-app.get('/hello', (req, res) => {
+app.get('/hello-world', (req, res) => {
     res.send('Hello');
 });
 
